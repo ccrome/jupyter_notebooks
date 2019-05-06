@@ -1,3 +1,5 @@
+scipy
+ipywidgets
 numpy
 matplotlib
 bokeh
